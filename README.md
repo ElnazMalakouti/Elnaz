@@ -1,3 +1,7 @@
-Hi there 🙋🏻‍♀️ , I'm Elnaz
+<p style="font-size:18px">
+  Hi there 🙋🏻‍♀️ , I'm Elnaz
+</p>
 <br/>
-A ReactJs and TypeScript developer
+<p style="font-size:16px">
+  A ReactJs and TypeScript developer
+</p>
