@@ -18,7 +18,6 @@
 
 
 <pre>
-```c++
 While(noSuccess)
 {
     tryAgain();
@@ -27,5 +26,4 @@ While(noSuccess)
         break;
     }
 }
-```
 </pre>
