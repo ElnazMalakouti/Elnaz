@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elnaz</h1>
-<h3 align="center">A passionate frontend developer from Iran</h3>
+<h3 align="center">A passionate and code wizard frontend developer 😎</h3>
 
 - 🔭 I’m currently working on **Jam-Melk project**
 
