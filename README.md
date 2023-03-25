@@ -18,7 +18,7 @@
 
 
 
-<code>
+<pre>
 While(noSuccess)
 {
     tryAgain();
@@ -27,4 +27,4 @@ While(noSuccess)
         break;
     }
 }
-</code>
+</pre>
