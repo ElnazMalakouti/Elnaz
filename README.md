@@ -18,7 +18,7 @@
 
 
 
-<pre>
+```html
 While(noSuccess)
 {
     tryAgain();
@@ -27,4 +27,4 @@ While(noSuccess)
         break;
     }
 }
-</pre>
+```
