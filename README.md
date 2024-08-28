@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elnaz</h1>
 <h3 align="center">A passionate and code wizard frontend developer</h3>
 
-- 🔭 I’m currently working on [Nojahan](https://www.nojahan.ir/)
+- 🔭 I’m currently working on [SnappCarfix](https://snappcarfix.com/)
 
 - 💬 Ask me about **React, JavaScript, TypeScript**
 
